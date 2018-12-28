@@ -1,0 +1,21 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <SolidColorBrush x:Key="CouleurTexte" Color="#FFAF2800" />
+    <LinearGradientBrush x:Key="CouleurFond">
+        <GradientStop Color="Yellow" Offset="0.0" />
+        <GradientStop Color="#9BFFA500" Offset="0.5" />
+        <GradientStop Color="Yellow" Offset="1.0" />
+    </LinearGradientBrush>
+
+    <Style x:Key="BoutonStyle">
+        <Setter Property="Button.Foreground" Value="{StaticResource CouleurTexte}"  />
+        <Setter Property="Button.Background" Value="{StaticResource CouleurFond}"  />
+        <Setter Property="Button.Width" Value="100" />
+        <Setter Property="Button.Height" Value="30" />
+        <Setter Property="Button.Foreground" Value="Blue"/>
+        <Setter Property="Button.FontSize" Value="15"/>
+        <Setter Property="Button.FontWeight" Value="bold"/>
+        <Setter Property="Button.FontStyle" Value="Italic"/>
+     </Style>
+   
+</ResourceDictionary>

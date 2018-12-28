@@ -1,0 +1,16 @@
+C:\Users\svantieghem\Documents\Visual Studio 2012\Projects\4)graphique\xmal\PremierProjet\PremierProjet\bin\Debug\PremierProjet.exe.config
+C:\Users\svantieghem\Documents\Visual Studio 2012\Projects\4)graphique\xmal\PremierProjet\PremierProjet\bin\Debug\PremierProjet.exe
+C:\Users\svantieghem\Documents\Visual Studio 2012\Projects\4)graphique\xmal\PremierProjet\PremierProjet\bin\Debug\PremierProjet.pdb
+C:\Users\svantieghem\Documents\Visual Studio 2012\Projects\4)graphique\xmal\PremierProjet\PremierProjet\obj\Debug\MonDico.baml
+C:\Users\svantieghem\Documents\Visual Studio 2012\Projects\4)graphique\xmal\PremierProjet\PremierProjet\obj\Debug\App.baml
+C:\Users\svantieghem\Documents\Visual Studio 2012\Projects\4)graphique\xmal\PremierProjet\PremierProjet\obj\Debug\MainWindow.g.cs
+C:\Users\svantieghem\Documents\Visual Studio 2012\Projects\4)graphique\xmal\PremierProjet\PremierProjet\obj\Debug\App.g.cs
+C:\Users\svantieghem\Documents\Visual Studio 2012\Projects\4)graphique\xmal\PremierProjet\PremierProjet\obj\Debug\PremierProjet_MarkupCompile.cache
+C:\Users\svantieghem\Documents\Visual Studio 2012\Projects\4)graphique\xmal\PremierProjet\PremierProjet\obj\Debug\PremierProjet_MarkupCompile.lref
+C:\Users\svantieghem\Documents\Visual Studio 2012\Projects\4)graphique\xmal\PremierProjet\PremierProjet\obj\Debug\MainWindow.baml
+C:\Users\svantieghem\Documents\Visual Studio 2012\Projects\4)graphique\xmal\PremierProjet\PremierProjet\obj\Debug\PremierProjet.g.resources
+C:\Users\svantieghem\Documents\Visual Studio 2012\Projects\4)graphique\xmal\PremierProjet\PremierProjet\obj\Debug\PremierProjet.Properties.Resources.resources
+C:\Users\svantieghem\Documents\Visual Studio 2012\Projects\4)graphique\xmal\PremierProjet\PremierProjet\obj\Debug\PremierProjet.csproj.GenerateResource.Cache
+C:\Users\svantieghem\Documents\Visual Studio 2012\Projects\4)graphique\xmal\PremierProjet\PremierProjet\obj\Debug\PremierProjet.exe
+C:\Users\svantieghem\Documents\Visual Studio 2012\Projects\4)graphique\xmal\PremierProjet\PremierProjet\obj\Debug\PremierProjet.pdb
+C:\Users\svantieghem\Documents\Visual Studio 2012\Projects\4)graphique\xmal\PremierProjet\PremierProjet\obj\Debug\GeneratedInternalTypeHelper.g.cs
